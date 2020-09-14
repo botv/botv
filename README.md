@@ -1,4 +1,4 @@
-# About
+## About
 I like building things that people use, and I do it quite frequently.
 
 ## Links
