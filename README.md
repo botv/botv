@@ -1,5 +1,5 @@
-# About me
-All you need to know is that I write good code that works.
+# About
+I like building things that people use, and I do it quite frequently.
 
 ## Links
 
