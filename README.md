@@ -1,5 +1,5 @@
 ## About
-I like building things that people use, and I do it quite frequently.
+I like building things that people use.
 
 ## Links
 
