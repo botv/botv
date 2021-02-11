@@ -3,8 +3,8 @@ I like building things that people use.
 
 ## Links
 
-- Website: https://benbotvinick.com
 - LinkedIn: https://linkedin.com/in/botv
+- Twitter: https://twitter.com/benbotvinick
 - Stack Overflow: https://stackoverflow.com/users/10056034/ben-botvinick
 - Instagram: https://instagram.com/botvinix
 - Facebook: https://facebook.com/botvinick
