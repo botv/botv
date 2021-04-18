@@ -11,7 +11,7 @@ I like building things that people use.
 
 ## Projects (by size/impact)
 
-- Meta Labs (https://metalabs.io)
+- Hyper (https://hyper.co)
 - Schwag (https://schwag.co)
 - Nook Storage (https://nookstorage.co)
 - Unlit.io (https://unlit.io)
